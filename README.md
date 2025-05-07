@@ -9,3 +9,4 @@ Key Findings:
 - After filtering out stopwords, the 20 most frequently used words were identified. The top word spoken was "don't"
 - The name "Luke" was among the top 20 most commonly used words, which is expected given his key role in the story
 - Character names like "Artoo" and "Chewie" also appeared among the top words, highlighting their memorable presence in the film
+![Top Words](images/most_common_words.png)
