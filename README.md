@@ -1,2 +1,2 @@
-# Star-Wars-Script-Analysis
+# Star Wars Script Analysis
 Analyzes a Star Wars script using NumPy, Matplotlib and NLP.
