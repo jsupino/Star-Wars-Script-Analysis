@@ -1,12 +1,12 @@
 # Star Wars Script Analysis
-This project analyzes the script from *Star Wars Episode V*: The Empire Strikes Back.
+This project uses natural language processing to analyze the script from *Star Wars Episode V*: The Empire Strikes Back.
 - Project Status: In-Progress
 
 ## Objective
 To uncover narrative insights and character roles by analyzing diaglogue.
 
 ## Technologies
-- Python (NumPy, Matplotlib, NLTK, NLP)
+- Python (NumPy, Matplotlib, NLTK)
 - Jupyter Notebook
 
 ## Description
