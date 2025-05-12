@@ -11,7 +11,8 @@ To uncover narrative insights and character roles by analyzing diaglogue.
 
 ## Description
 This project analyzes the *Star Wars Episode V* script sourced from Kaggle:
-- https://www.kaggle.com/datasets/xvivancos/star-wars-movie-scripts?select=SW_EpisodeV.txt
+    
+    https://www.kaggle.com/datasets/xvivancos/star-wars-movie-scripts?select=SW_EpisodeV.txt
 
 This analysis focuses on:
     - character dialogue frequency
