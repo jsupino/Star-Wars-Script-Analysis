@@ -1,5 +1,5 @@
 # Star Wars Script Analysis
-This project analyzes the *Star Wars Episode V* script.
+This project analyzes the script from *Star Wars Episode V*: The Empire Strikes Back.
 - Project Status: In-Progress
 
 ## Objective
