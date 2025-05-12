@@ -15,9 +15,9 @@ This project analyzes the *Star Wars Episode V* script sourced from Kaggle:
     https://www.kaggle.com/datasets/xvivancos/star-wars-movie-scripts?select=SW_EpisodeV.txt
 
 This analysis focuses on:
-    - character dialogue frequency
-    - sentiment analysis of key characters
-    - identifying most commonly spoken words (after removing stopwords)
+- character dialogue frequency
+- sentiment analysis of key characters
+- identifying most commonly spoken words (after removing stopwords)
 
 ## Key Findings:
 - Han Solo had the most speaking lines, followed by Luke and Leia
