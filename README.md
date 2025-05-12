@@ -1,15 +1,33 @@
 # Star Wars Script Analysis
-Analyzes the Star Wars Episode V script obtained from Kaggle using NumPy, Matplotlib and Natural Language Processing (NLP) techniques.
-- Source: https://www.kaggle.com/datasets/xvivancos/star-wars-movie-scripts?select=SW_EpisodeV.txt
+This project analyzes the *Star Wars Episode V* script.
+- Project Status: In-Progress
 
-The goal is to explore character dialogue, sentiment analysis and word usage throughout the film. This analysis determines how often a character speaks, identifies the top three most active characters, and highlights the most frequently used words after filtering out stopwords.
+## Objective
+To uncover narrative insights and character roles by analyzing diaglogue.
 
-Key Findings:
+## Technologies
+- Python (NumPy, Matplotlib, NLTK, NLP)
+- Jupyter Notebook
+
+## Description
+This project analyzes the *Star Wars Episode V* script sourced from Kaggle:
+- https://www.kaggle.com/datasets/xvivancos/star-wars-movie-scripts?select=SW_EpisodeV.txt
+
+This analysis focuses on:
+    - character dialogue frequency
+    - sentiment analysis of key characters
+    - identifying most commonly spoken words (after removing stopwords)
+
+## Key Findings:
 - Han Solo had the most speaking lines, followed by Luke and Leia
     ![Top Characters](images/top_3_char.png)
-- Han Solo's dialogue showed a positive sentiment, meanwhile Luke Skywalker's showed a neutral sentiment.
-- After filtering out stopwords, the 20 most frequently used words were identified. The top word spoken was "don't"
-- The name "Luke" was among the top 20 most commonly used words, which is expected given his key role in the story
-- Character names like "Artoo" and "Chewie" also appeared among the top words, highlighting their memorable presence in the film
+- Sentiment Analysis
+    - Han Solo's dialogue showed a positive sentiment
+    - Luke Skywalker's showed a neutral sentiment
+
+- After filtering out stopwords, the 20 most frequently used words were identified
+    - Most common word was "don't"
+    - The name "Luke" appeared frequently, reflecting his key role in the story
+    - Character names like "Artoo" and "Chewie" also appeared among the top words, highlighting their memorable presence in the film
   
     ![Top Words](images/most_common_words.png)
