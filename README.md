@@ -25,6 +25,7 @@ This analysis focuses on:
 - Sentiment Analysis
     - Han Solo's dialogue showed a positive sentiment
     - Luke Skywalker's showed a neutral sentiment
+    - Chewbacca's sentiment analysis was inapplicable due to having no speaking lines
 
 - After filtering out stopwords, the 20 most frequently used words were identified
     - Most common word was "don't"
